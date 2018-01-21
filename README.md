@@ -1,2 +1,4 @@
 # Dev-Sprint-Res
-This repo is for Dev Sprint Resources
+Open Shift : https://github.com/openshift/
+Fedora : https://fedoraproject.org/wiki/Infrastructure
+Mozilla : https://whatcanidoformozilla.org
